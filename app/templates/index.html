@@ -1,10 +1,7 @@
-{% extends 'base.html' %}
-{% block head %}
+{% extends 'base.html' %} {% block head %}
 <title>index</title>
-{% endblock %}
-{% block body %}
+{% endblock %} {% block body %}
 <h1 id="txt">hello</h1>
 <button id="but" onclick="hai()" type="submit">hello</button>
 <h1>{{task}}{{hai}}</h1>
-<img id="img" src="{{ url_for('static', filename='images/image8.png') }}" alt="" />
 {% endblock %}
