@@ -10,7 +10,7 @@ This project was built to practice how jQuery can be used to create interactive 
 
 🎥 Watch the complete demo here:
 
-[Add Your Demo Video Link Here]
+[![Watch Demo](screenshot.png)](/demo.mp4)
 
 The video demonstrates every button and animation available in the application.
 
